@@ -1,8 +1,8 @@
 @echo off
-title Custom Command Runner
+title Command execicution
 color 0a
 
-echo Running your custom command...
+echo Running your '死亡'...
 echo.
 
 REM ===== INSERT YOUR COMMAND BELOW =====
